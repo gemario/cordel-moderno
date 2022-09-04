@@ -91,14 +91,14 @@ section.imagem > p {
 }
 
 section#img01 {
-  background-image: url('../assets/background001.jpg');
+  background-image: url('./assets/background001.jpg');
   background-position: right center;
   background-repeat: no-repeat;
   
 }
 
 section#img02 {
-  background-image: url('../assets/background002.jpg');
+  background-image: url('./assets/background002.jpg');
 }
 
 footer {
